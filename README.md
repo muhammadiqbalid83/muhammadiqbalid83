@@ -1,16 +1,20 @@
-<h1>Hi 👋, I'm Muhammad Iqbal</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=aldipee" alt="aldipee" />
+
+<h1>Hi 👋, I'm Iqbal</h1>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aldipee&show_icons=false">
 
-💻 I'm a Front End Engineer 
+💻 I'm a Software Engineer 
 
-- ⚙️ Stack: `Java`, `Spring Boot`, `Javascript`, `ReactJs`, `NodeJs`, `TypeScript`, `React Native`
-- 🏢 I'm currently working on some **Spring Boot Project**
+- ⚙️ Stack: `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux`, `Tailwind`, 
+- 🏢 I'm currently working on some **NextJS Project**
 - 🌱 I'm currently learning about Kotlin
 - 📫 Stay in Bengkulu, Indonesia
 
+<p align="center">
 
-<!---
-muhammadiqbalid83/muhammadiqbalid83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://linkedin.com/in/aldipee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aldipee" height="20" width="20" /></a>
+
+
+</p>
