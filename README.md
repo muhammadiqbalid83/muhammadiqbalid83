@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadiqbalid83&show_icons=false">
 
-💻 I'm a Software Engineer 
+💻 I'm a Frontend Engineer 
 
 - ⚙️ Stack: `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux`, `Tailwind`, 
 - 🏢 I'm currently working on some **NextJS Project**
