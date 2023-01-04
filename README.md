@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=aldipee" alt="aldipee" />
+<img align="right" src="https://komarev.com/ghpvc/?username=muhammadiqbalid83" alt="Muhammad Iqbal" />
 
 <h1>Hi 👋, I'm Iqbal</h1>
 
@@ -6,9 +6,9 @@
 
 💻 I'm a Frontend Engineer 
 
-- ⚙️ Stack: `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux`, `Tailwind`, 
+- ⚙️ Stack: `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux`, `Tailwind`, `GraphQL`
 - 🏢 I'm currently working on some **NextJS Project**
-- 🌱 I'm currently learning about Kotlin
+- 🌱 I'm currently learning about GraphQL
 - 📫 Stay in Bengkulu, Indonesia
 
 <p align="center">
