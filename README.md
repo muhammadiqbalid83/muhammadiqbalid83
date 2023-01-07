@@ -6,9 +6,9 @@
 
 💻 I'm a Frontend Engineer 
 
-- ⚙️ Stack: `CSS`, `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux Toolkit`, `Tailwind`, `Sass`, `GraphQL`, `Jest`, `Testing Library`
+- ⚙️ Stack: `CSS`, `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux Toolkit`, `Tailwind`, `Sass`, `Jest`, `Testing Library`
 - 🏢 I'm currently working on some **NextJS Project**
-- 🌱 I'm currently learning about GraphQL
+- 🌱 I'm currently learning about `GraphQL`, `Zustand`, `Tanstack Query`
 - 📫 Stay in Bengkulu, Indonesia
 
 <p align="center">
