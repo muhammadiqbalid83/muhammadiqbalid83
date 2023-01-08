@@ -14,7 +14,7 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/muhammad-iqbal-72073b226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Iqbal" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/muhammadiqbalid83/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Muhammad Iqbal" height="20" width="20" /></a>
 
 
 </p>
