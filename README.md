@@ -2,11 +2,9 @@
 
 <h1>Hi 👋, I'm Iqbal</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadiqbalid83&show_icons=false">
-
 💻 I'm a Frontend Engineer 
 
-- ⚙️ Stack: `CSS`, `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux Toolkit`, `Tailwind`, `Jest`, `Testing Library`
+- ⚙️ Stack: `CSS`, `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux Toolkit`, `Tailwind`, `Headless UI`, `Jest`, `Testing Library`
 - 🏢 I'm currently working on some **NextJS Project**
 - 🌱 I'm currently learning about `GraphQL`, `Zustand`, `Tanstack Query`
 - 📫 Stay in Bengkulu, Indonesia
