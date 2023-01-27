@@ -4,9 +4,9 @@
 
 💻 I'm a Frontend Engineer 
 
-- ⚙️ Stack: `CSS`, `Javascript`, `Typescript`, `ReactJS`, `NextJS`, `Redux Toolkit`, `Tailwind`, `Headless UI`, `Jest`, `Testing Library`
+- ⚙️ Stack: `CSS`, `Javascript`,
 - 🏢 I'm currently working on some **NextJS Project**
-- 🌱 I'm currently learning about `GraphQL`, `Zustand`, `Tanstack Query`
+- 🌱 I'm currently learning about `Javascript`, `Css`, `Writing`
 - 📫 Stay in Bengkulu, Indonesia
 
 <p align="center">
