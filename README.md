@@ -5,7 +5,7 @@
 💻 I'm a Frontend Engineer 
 
 - ⚙️ Stack: `Html`, `CSS`, `Javascript`,
-- 🏢 I'm currently working on some **NextJS Project**
+- 🏢 I'm currently working on some **[Dev Challanges](https://devchallenges.io/)**
 - 🌱 I'm currently learning about `Javascript`, `Css`, `Writing`
 - 📫 Stay in Bengkulu, Indonesia
 
