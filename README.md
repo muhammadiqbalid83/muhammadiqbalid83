@@ -4,9 +4,9 @@
 
 💻 I'm a Frontend Engineer 
 
-- ⚙️ Stack: `Html`, `CSS`, `Javascript`,
+- ⚙️ Stack: `Html`, `CSS`, `Tailwind CSS`, `Javascript`, `React JS`
 - 🏢 I'm currently working on some **[Dev Challanges](https://devchallenges.io/)** and **[Frontend Mentor](https://www.frontendmentor.io/challenges?difficulties=1&languages=HTML|CSS|JS&types=free)** Challanges
-- 🌱 I'm currently learning about `Javascript`, `Css`, `Writing`
+- 🌱 I'm currently learning about `Tailwind CSS`, `Javascript`, `React JS`
 - 📫 Stay in Bengkulu, Indonesia
 
 <p align="center">
